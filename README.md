@@ -5,7 +5,6 @@ I'm passionate about applying data science and machine learning to solve real-wo
 
 ## 🌱 What I'm Learning
 - Machine Learning and AI: Supervised/Unsupervised Learning, Reinforcement Learning, Deep Neural Networks, and more.
-- Business Finance and Decision-Making Tools at Nanyang Technological University, Singapore.
 - Advanced techniques in TensorFlow for machine learning model development.
 
 ## 💞️ Collaboration Interests
